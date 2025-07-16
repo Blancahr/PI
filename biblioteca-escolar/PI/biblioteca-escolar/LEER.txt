@@ -1,0 +1,15 @@
+#Descripcion
+Este proyecto es un sistema de gestión para una biblioteca escolar, desarrollado con PHP y MySQL. Permite registrar y administrar usuarios, libros y préstamos de forma sencilla. Está pensado para facilitar el control interno en bibliotecas de colegios o instituciones educativas pequeñas.
+Incluye funciones como registro de usuarios y libros, emisión y devolución de préstamos, control de fechas, validación de datos y una interfaz amigable adaptada a dispositivos móviles y de escritorio.
+Ideal para estudiantes, prácticas académicas o como base para proyectos más avanzados.
+
+#Tecnologías utilizadas
+PHP 
+MySQL
+HTML, CSS (Tailwind)
+JavaScript
+[Otras tecnologías: Flowbite, Select2, DataTables]
+
+#Contacto
+Si te fue útil este proyecto, no olvides suscribirte a mi canal de youtube: @samicodev
+También puedes escribirme a: contacto.samicodev@gmail.com
